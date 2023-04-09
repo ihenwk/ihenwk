@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+After working as a Pharmacist for four years delivering customer focused solutions within the healthcare industry, I took an interest in software engineering due to my interest in how technology can improve patient experience in healthcare. This led to me taking a Java bootcamp delivered by Wiley Edge. I am passionate about AI, AR/VR and web development. I am currently looking for my first role as a software engineer where I can learn about new technologies, work collaboratively to create technical solutions to complex problems and further develop my skills as a software engineer.
+
 <!--
 **ihenwk/ihenwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
