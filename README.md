@@ -1,6 +1,9 @@
 <h1 align="center"> Ihesinachi Nwankwo </h1>
 
 <h2 align="center"> Junior Software Engineer <h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ihesinachi-n-829620156/"><img src="https://github.com/ihenwk/ihenwk/blob/67ac8fce605524bd8f75e9ce5323a4ca0b734e60/LinkedInLogo.png" class="center" width="100" ></a>
+ </p>
 
 
 After working as a Pharmacist for four years delivering customer focused solutions within the healthcare industry, I took an interest in software engineering due to my interest in the use of technology in healthcare. This led to me taking a full-stack bootcamp in Java delivered by Wiley Edge. I am passionate about learning new technologies and using my creativity to come up with solutions to everyday problems. I have an interest in working with microservices, rest APIs and the cloud. 
