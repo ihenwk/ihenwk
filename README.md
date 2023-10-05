@@ -6,7 +6,7 @@
  </p>
 
 
-After working as a Pharmacist for four years delivering customer focused solutions within the healthcare industry, I took an interest in software engineering due to my interest in the use of technology in healthcare. This led to me taking a full-stack bootcamp in Java delivered by Wiley Edge. I am passionate about learning new technologies and using my creativity to come up with solutions to everyday problems. I have an interest in working with microservices, rest APIs and the cloud. 
+After working as a Pharmacist for four years delivering customer focused solutions within the healthcare industry, I took an interest in software engineering due to my interest in the use of technology in healthcare. This led to me taking a full-stack bootcamp in Java. I am passionate about learning new technologies and using my creativity to come up with solutions to everyday problems. I have an interest in working with microservices, rest APIs and the cloud. 
 
 I am currently looking for my first role as a software engineer where I can learn about new technologies, push boundaries/think outside the box, work collaboratively with great minds to create technical solutions to complex problems, and further develop my skills as a software engineer.
 
